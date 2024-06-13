@@ -1,0 +1,4 @@
+application:
+  environment: DEV
+
+test: one
